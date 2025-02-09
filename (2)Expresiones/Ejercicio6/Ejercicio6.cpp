@@ -1,5 +1,5 @@
-//Escribe la siguiente expresión matemática como expresión en C++.
-
+/*Bloque 2. Expresiones
+**Ejercicio 2: Escribe la siguiente expresión matemática como expresión en C++.*/
 #include <iostream>
 using namespace std;
 
